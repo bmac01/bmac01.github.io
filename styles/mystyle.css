@@ -1,0 +1,45 @@
+  body {
+    background:url(../images/file.jpg);
+  }
+}	
+		
+	body{
+	justify-content: center;
+}
+
+p{
+	color:black;
+	font-family:Arial;
+	font-size: 14px;
+	justify-content: center;
+		}
+
+ul{
+	justify-content: center;
+	list-style: outside;
+}
+
+.change1{
+	justify-content: center;
+}
+	
+span {
+	font-weight:bold;
+	text-decoration: underline;
+}
+
+
+.box {
+  float: left;
+  width: 32%;
+  padding: 2px
+  }
+
+
+.change2{
+	text-align: center;
+	justify-content: center;
+}
+
+
+
